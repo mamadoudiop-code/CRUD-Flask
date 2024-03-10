@@ -47,8 +47,4 @@ _index()_ - Display the list of all product entries in the database
 
 <!-- Add a Screenshot/GIF showing the sample use of the script (jpeg/png/gif). -->
 
-## 🤖 Author
 
-<!--Remove the below lines and add yours -->
-
-[Alexander Monterrosa](https://github.com/Alex108-lab)
